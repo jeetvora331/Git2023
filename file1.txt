@@ -18,3 +18,5 @@ new feature branch1
 feature6
 
 feature7
+
+correct feature 8

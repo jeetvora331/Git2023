@@ -1,1 +1,15 @@
 feature1
+
+branched 
+feature2
+
+feature3
+
+feature4
+
+committed feature6 added from branch2
+    good code only 
+    2x bad code removed 
+
+feature7
+    bad code added

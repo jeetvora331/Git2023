@@ -14,3 +14,7 @@ feature5 added from branch 1
 new feature branch1 
     some code
     good code 
+
+feature6
+
+feature7

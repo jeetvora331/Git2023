@@ -3,4 +3,6 @@ feature1
 branched 
 feature2
 
-feature3-final
+feature3
+
+feature4

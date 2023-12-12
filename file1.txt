@@ -15,6 +15,5 @@ feature7
     bad code removed
     good code added
 
-feature 8
-    bad code removed
+feature 8 -final
     good code 

@@ -12,4 +12,9 @@ committed feature6 added from branch2
     2x bad code removed 
 
 feature7
-    bad code added
+    bad code removed
+    good code added
+
+feature 8
+    bad code removed
+    good code 

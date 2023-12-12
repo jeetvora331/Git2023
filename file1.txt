@@ -8,3 +8,4 @@ feature3
 feature4
 
 committed feature6 added from branch2
+    bad code

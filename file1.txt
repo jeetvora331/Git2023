@@ -10,3 +10,5 @@ feature4
 feature5 added from branch 1
     bad code removed 
     good code 
+
+new feature branch1 
